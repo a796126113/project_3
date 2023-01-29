@@ -1,6 +1,6 @@
-print('hello world')
-print('I wanna fly')
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+print('hello world 哈哈哈')
+print('I will fly')
 
 
-測試修改branch_1支線
+測試分支branch_2
+>>>>>>> branch_2
