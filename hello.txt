@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 print('hello world 哈哈哈')
 print('I will fly')
 
 
 測試分支branch_2
+=======
+print('hello world aaaaaaaa')
+print('I wanna fly bbbbbbbb')
+
+測試branch3
+
+5
+6
+7
+>>>>>>> branch_3
